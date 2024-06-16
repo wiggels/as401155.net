@@ -1,0 +1,20 @@
+theme="archie"
+baseURL = 'https://as401155.net/'
+languageCode = 'en-us'
+title = 'AS401155'
+copyright = "Wigelsworth Consulting Corp. All Rights Reserved."
+
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 2
+
+[[menu.main]]
+name = "Geofeed"
+url = "/geofeed.csv"
+weight = 3
