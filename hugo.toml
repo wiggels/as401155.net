@@ -15,6 +15,11 @@ url = "/about"
 weight = 2
 
 [[menu.main]]
+name = "Posts"
+url = "/posts"
+weight = 3
+
+[[menu.main]]
 name = "Geofeed"
 url = "/geofeed.csv"
-weight = 3
+weight = 4
