@@ -1,5 +1,6 @@
 # Wigelsworth Consulting Corp Geofeed (AS401155)
 # Email: noc@as401155.net
 # prefix,country_code,region_code,city,postal
+2602:819:8000::/48,US,US-GA,Atlanta,30318
 2602:819:800a::/48,US,US-GA,Ludowici,31316
 2602:819:800c::/48,US,US-GA,Atlanta,30318
